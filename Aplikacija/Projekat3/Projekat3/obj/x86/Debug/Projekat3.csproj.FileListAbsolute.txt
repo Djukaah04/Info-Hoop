@@ -1,0 +1,205 @@
+D:\NIKOLA\NBP\Mongo\6-2\Projekat3\Projekat3\bin\Debug\Projekat3.exe
+D:\NIKOLA\NBP\Mongo\6-2\Projekat3\Projekat3\bin\Debug\Projekat3.pdb
+D:\NIKOLA\NBP\Mongo\6-2\Projekat3\Projekat3\bin\Debug\MongoDB.Bson.dll
+D:\NIKOLA\NBP\Mongo\6-2\Projekat3\Projekat3\bin\Debug\MongoDB.Driver.dll
+D:\NIKOLA\NBP\Mongo\6-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csprojAssemblyReference.cache
+D:\NIKOLA\NBP\Mongo\6-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form1.resources
+D:\NIKOLA\NBP\Mongo\6-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Properties.Resources.resources
+D:\NIKOLA\NBP\Mongo\6-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.GenerateResource.cache
+D:\NIKOLA\NBP\Mongo\6-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CoreCompileInputs.cache
+D:\NIKOLA\NBP\Mongo\6-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CopyComplete
+D:\NIKOLA\NBP\Mongo\6-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.exe
+D:\NIKOLA\NBP\Mongo\6-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.pdb
+E:\NIKOLA\FAKULTET\NBP\6-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.exe
+E:\NIKOLA\FAKULTET\NBP\6-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.pdb
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - A\Projekat3\Projekat3\bin\Debug\Projekat3.exe
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - A\Projekat3\Projekat3\bin\Debug\Projekat3.pdb
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - A\Projekat3\Projekat3\bin\Debug\MongoDB.Bson.dll
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - A\Projekat3\Projekat3\bin\Debug\MongoDB.Driver.dll
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csprojAssemblyReference.cache
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form0.resources
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form1.resources
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Properties.Resources.resources
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.GenerateResource.cache
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CoreCompileInputs.cache
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CopyComplete
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.exe
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.pdb
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - B\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csprojAssemblyReference.cache
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - B\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form0.resources
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - B\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form1.resources
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - B\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Properties.Resources.resources
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - B\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.GenerateResource.cache
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - B\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CoreCompileInputs.cache
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - B\Projekat3\Projekat3\obj\x86\Debug\Projekat3.exe
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - B\Projekat3\Projekat3\obj\x86\Debug\Projekat3.pdb
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - B\Projekat3\Projekat3\bin\Debug\Projekat3.exe
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - B\Projekat3\Projekat3\bin\Debug\Projekat3.pdb
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - B\Projekat3\Projekat3\bin\Debug\MongoDB.Bson.dll
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - B\Projekat3\Projekat3\bin\Debug\MongoDB.Driver.dll
+\\10.150.10.25\e$\NIKOLA\FAKULTET\NBP\6-2 - B\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CopyComplete
+D:\NIKOLA\NBP\Mongo\8-2\Projekat3\Projekat3\bin\Debug\Projekat3.exe
+D:\NIKOLA\NBP\Mongo\8-2\Projekat3\Projekat3\bin\Debug\Projekat3.pdb
+D:\NIKOLA\NBP\Mongo\8-2\Projekat3\Projekat3\bin\Debug\MongoDB.Bson.dll
+D:\NIKOLA\NBP\Mongo\8-2\Projekat3\Projekat3\bin\Debug\MongoDB.Driver.dll
+D:\NIKOLA\NBP\Mongo\8-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csprojAssemblyReference.cache
+D:\NIKOLA\NBP\Mongo\8-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form0.resources
+D:\NIKOLA\NBP\Mongo\8-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form1.resources
+D:\NIKOLA\NBP\Mongo\8-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Properties.Resources.resources
+D:\NIKOLA\NBP\Mongo\8-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.GenerateResource.cache
+D:\NIKOLA\NBP\Mongo\8-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CoreCompileInputs.cache
+D:\NIKOLA\NBP\Mongo\8-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CopyComplete
+D:\NIKOLA\NBP\Mongo\8-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.exe
+D:\NIKOLA\NBP\Mongo\8-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.pdb
+D:\NIKOLA\NBP\Mongo\8-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Upiti.resources
+D:\NIKOLA\NBP\Mongo\8-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Treneri.resources
+D:\NIKOLA\NBP\Mongo\9-2\Projekat3\Projekat3\bin\Debug\Projekat3.exe
+D:\NIKOLA\NBP\Mongo\9-2\Projekat3\Projekat3\bin\Debug\Projekat3.pdb
+D:\NIKOLA\NBP\Mongo\9-2\Projekat3\Projekat3\bin\Debug\MongoDB.Bson.dll
+D:\NIKOLA\NBP\Mongo\9-2\Projekat3\Projekat3\bin\Debug\MongoDB.Driver.dll
+D:\NIKOLA\NBP\Mongo\9-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csprojAssemblyReference.cache
+D:\NIKOLA\NBP\Mongo\9-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form0.resources
+D:\NIKOLA\NBP\Mongo\9-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form1.resources
+D:\NIKOLA\NBP\Mongo\9-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Treneri.resources
+D:\NIKOLA\NBP\Mongo\9-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Upiti.resources
+D:\NIKOLA\NBP\Mongo\9-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Properties.Resources.resources
+D:\NIKOLA\NBP\Mongo\9-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.GenerateResource.cache
+D:\NIKOLA\NBP\Mongo\9-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CoreCompileInputs.cache
+D:\NIKOLA\NBP\Mongo\9-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CopyComplete
+D:\NIKOLA\NBP\Mongo\9-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.exe
+D:\NIKOLA\NBP\Mongo\9-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.pdb
+D:\NIKOLA\NBP\Mongo\10-2\Projekat3\Projekat3\bin\Debug\Projekat3.exe
+D:\NIKOLA\NBP\Mongo\10-2\Projekat3\Projekat3\bin\Debug\Projekat3.pdb
+D:\NIKOLA\NBP\Mongo\10-2\Projekat3\Projekat3\bin\Debug\MongoDB.Bson.dll
+D:\NIKOLA\NBP\Mongo\10-2\Projekat3\Projekat3\bin\Debug\MongoDB.Driver.dll
+D:\NIKOLA\NBP\Mongo\10-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csprojAssemblyReference.cache
+D:\NIKOLA\NBP\Mongo\10-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form0.resources
+D:\NIKOLA\NBP\Mongo\10-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form1.resources
+D:\NIKOLA\NBP\Mongo\10-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Treneri.resources
+D:\NIKOLA\NBP\Mongo\10-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Upiti.resources
+D:\NIKOLA\NBP\Mongo\10-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Properties.Resources.resources
+D:\NIKOLA\NBP\Mongo\10-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.GenerateResource.cache
+D:\NIKOLA\NBP\Mongo\10-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CoreCompileInputs.cache
+D:\NIKOLA\NBP\Mongo\10-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CopyComplete
+D:\NIKOLA\NBP\Mongo\10-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.exe
+D:\NIKOLA\NBP\Mongo\10-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.pdb
+D:\NIKOLA\NBP\Mongo\10-2-A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csprojAssemblyReference.cache
+D:\NIKOLA\NBP\Mongo\10-2-A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form0.resources
+D:\NIKOLA\NBP\Mongo\10-2-A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form1.resources
+D:\NIKOLA\NBP\Mongo\10-2-A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Treneri.resources
+D:\NIKOLA\NBP\Mongo\10-2-A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Properties.Resources.resources
+D:\NIKOLA\NBP\Mongo\10-2-A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.GenerateResource.cache
+D:\NIKOLA\NBP\Mongo\10-2-A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CoreCompileInputs.cache
+D:\NIKOLA\NBP\Mongo\10-2-A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.exe
+D:\NIKOLA\NBP\Mongo\10-2-A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.pdb
+D:\NIKOLA\NBP\Mongo\10-2-A\Projekat3\Projekat3\bin\Debug\Projekat3.exe
+D:\NIKOLA\NBP\Mongo\10-2-A\Projekat3\Projekat3\bin\Debug\Projekat3.pdb
+D:\NIKOLA\NBP\Mongo\10-2-A\Projekat3\Projekat3\bin\Debug\MongoDB.Bson.dll
+D:\NIKOLA\NBP\Mongo\10-2-A\Projekat3\Projekat3\bin\Debug\MongoDB.Driver.dll
+D:\NIKOLA\NBP\Mongo\10-2-A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CopyComplete
+D:\NIKOLA\NBP\Mongo\10-2-A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Kosarkasi.resources
+D:\NIKOLA\NBP\Mongo\11-2\Projekat3\Projekat3\bin\Debug\Projekat3.exe
+D:\NIKOLA\NBP\Mongo\11-2\Projekat3\Projekat3\bin\Debug\Projekat3.pdb
+D:\NIKOLA\NBP\Mongo\11-2\Projekat3\Projekat3\bin\Debug\MongoDB.Bson.dll
+D:\NIKOLA\NBP\Mongo\11-2\Projekat3\Projekat3\bin\Debug\MongoDB.Driver.dll
+D:\NIKOLA\NBP\Mongo\11-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csprojAssemblyReference.cache
+D:\NIKOLA\NBP\Mongo\11-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form0.resources
+D:\NIKOLA\NBP\Mongo\11-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form1.resources
+D:\NIKOLA\NBP\Mongo\11-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Kosarkasi.resources
+D:\NIKOLA\NBP\Mongo\11-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Treneri.resources
+D:\NIKOLA\NBP\Mongo\11-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Properties.Resources.resources
+D:\NIKOLA\NBP\Mongo\11-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.GenerateResource.cache
+D:\NIKOLA\NBP\Mongo\11-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CoreCompileInputs.cache
+D:\NIKOLA\NBP\Mongo\11-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CopyComplete
+D:\NIKOLA\NBP\Mongo\11-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.exe
+D:\NIKOLA\NBP\Mongo\11-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.pdb
+D:\NIKOLA\NBP\Mongo\12-2\Projekat3\Projekat3\bin\Debug\Projekat3.exe
+D:\NIKOLA\NBP\Mongo\12-2\Projekat3\Projekat3\bin\Debug\Projekat3.pdb
+D:\NIKOLA\NBP\Mongo\12-2\Projekat3\Projekat3\bin\Debug\MongoDB.Bson.dll
+D:\NIKOLA\NBP\Mongo\12-2\Projekat3\Projekat3\bin\Debug\MongoDB.Driver.dll
+D:\NIKOLA\NBP\Mongo\12-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csprojAssemblyReference.cache
+D:\NIKOLA\NBP\Mongo\12-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form0.resources
+D:\NIKOLA\NBP\Mongo\12-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form1.resources
+D:\NIKOLA\NBP\Mongo\12-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Kosarkasi.resources
+D:\NIKOLA\NBP\Mongo\12-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Treneri.resources
+D:\NIKOLA\NBP\Mongo\12-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Properties.Resources.resources
+D:\NIKOLA\NBP\Mongo\12-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.GenerateResource.cache
+D:\NIKOLA\NBP\Mongo\12-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CoreCompileInputs.cache
+D:\NIKOLA\NBP\Mongo\12-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CopyComplete
+D:\NIKOLA\NBP\Mongo\12-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.exe
+D:\NIKOLA\NBP\Mongo\12-2\Projekat3\Projekat3\obj\x86\Debug\Projekat3.pdb
+D:\NIKOLA\NBP\Mongo\12-2 - sa slikom\Projekat3\Projekat3\bin\Debug\Projekat3.exe
+D:\NIKOLA\NBP\Mongo\12-2 - sa slikom\Projekat3\Projekat3\bin\Debug\Projekat3.pdb
+D:\NIKOLA\NBP\Mongo\12-2 - sa slikom\Projekat3\Projekat3\bin\Debug\MongoDB.Bson.dll
+D:\NIKOLA\NBP\Mongo\12-2 - sa slikom\Projekat3\Projekat3\bin\Debug\MongoDB.Driver.dll
+D:\NIKOLA\NBP\Mongo\12-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csprojAssemblyReference.cache
+D:\NIKOLA\NBP\Mongo\12-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form0.resources
+D:\NIKOLA\NBP\Mongo\12-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form1.resources
+D:\NIKOLA\NBP\Mongo\12-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Kosarkasi.resources
+D:\NIKOLA\NBP\Mongo\12-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Treneri.resources
+D:\NIKOLA\NBP\Mongo\12-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Properties.Resources.resources
+D:\NIKOLA\NBP\Mongo\12-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.GenerateResource.cache
+D:\NIKOLA\NBP\Mongo\12-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CoreCompileInputs.cache
+D:\NIKOLA\NBP\Mongo\12-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CopyComplete
+D:\NIKOLA\NBP\Mongo\12-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.exe
+D:\NIKOLA\NBP\Mongo\12-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.pdb
+D:\NIKOLA\NBP\Mongo\13-2 - sa slikom\Projekat3\Projekat3\bin\Debug\Projekat3.exe
+D:\NIKOLA\NBP\Mongo\13-2 - sa slikom\Projekat3\Projekat3\bin\Debug\Projekat3.pdb
+D:\NIKOLA\NBP\Mongo\13-2 - sa slikom\Projekat3\Projekat3\bin\Debug\MongoDB.Bson.dll
+D:\NIKOLA\NBP\Mongo\13-2 - sa slikom\Projekat3\Projekat3\bin\Debug\MongoDB.Driver.dll
+D:\NIKOLA\NBP\Mongo\13-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csprojAssemblyReference.cache
+D:\NIKOLA\NBP\Mongo\13-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form0.resources
+D:\NIKOLA\NBP\Mongo\13-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form1.resources
+D:\NIKOLA\NBP\Mongo\13-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Kosarkasi.resources
+D:\NIKOLA\NBP\Mongo\13-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Treneri.resources
+D:\NIKOLA\NBP\Mongo\13-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Properties.Resources.resources
+D:\NIKOLA\NBP\Mongo\13-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.GenerateResource.cache
+D:\NIKOLA\NBP\Mongo\13-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CoreCompileInputs.cache
+D:\NIKOLA\NBP\Mongo\13-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CopyComplete
+D:\NIKOLA\NBP\Mongo\13-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.exe
+D:\NIKOLA\NBP\Mongo\13-2 - sa slikom\Projekat3\Projekat3\obj\x86\Debug\Projekat3.pdb
+D:\NIKOLA\NBP\Mongo\13-2 - -sa slikom -  A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csprojAssemblyReference.cache
+D:\NIKOLA\NBP\Mongo\13-2 - -sa slikom -  A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form0.resources
+D:\NIKOLA\NBP\Mongo\13-2 - -sa slikom -  A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form1.resources
+D:\NIKOLA\NBP\Mongo\13-2 - -sa slikom -  A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Kosarkasi.resources
+D:\NIKOLA\NBP\Mongo\13-2 - -sa slikom -  A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Treneri.resources
+D:\NIKOLA\NBP\Mongo\13-2 - -sa slikom -  A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Properties.Resources.resources
+D:\NIKOLA\NBP\Mongo\13-2 - -sa slikom -  A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.GenerateResource.cache
+D:\NIKOLA\NBP\Mongo\13-2 - -sa slikom -  A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CoreCompileInputs.cache
+D:\NIKOLA\NBP\Mongo\13-2 - -sa slikom -  A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.exe
+D:\NIKOLA\NBP\Mongo\13-2 - -sa slikom -  A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.pdb
+D:\NIKOLA\NBP\Mongo\13-2 - -sa slikom -  A\Projekat3\Projekat3\bin\Debug\Projekat3.exe
+D:\NIKOLA\NBP\Mongo\13-2 - -sa slikom -  A\Projekat3\Projekat3\bin\Debug\Projekat3.pdb
+D:\NIKOLA\NBP\Mongo\13-2 - -sa slikom -  A\Projekat3\Projekat3\bin\Debug\MongoDB.Bson.dll
+D:\NIKOLA\NBP\Mongo\13-2 - -sa slikom -  A\Projekat3\Projekat3\bin\Debug\MongoDB.Driver.dll
+D:\NIKOLA\NBP\Mongo\13-2 - -sa slikom -  A\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CopyComplete
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\Bez interfejsa\Projekat3\Projekat3\bin\Debug\Projekat3.exe
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\Bez interfejsa\Projekat3\Projekat3\bin\Debug\Projekat3.pdb
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\Bez interfejsa\Projekat3\Projekat3\bin\Debug\MongoDB.Bson.dll
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\Bez interfejsa\Projekat3\Projekat3\bin\Debug\MongoDB.Driver.dll
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\Bez interfejsa\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csprojAssemblyReference.cache
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\Bez interfejsa\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form0.resources
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\Bez interfejsa\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form1.resources
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\Bez interfejsa\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Kosarkasi.resources
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\Bez interfejsa\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Treneri.resources
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\Bez interfejsa\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Properties.Resources.resources
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\Bez interfejsa\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.GenerateResource.cache
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\Bez interfejsa\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CoreCompileInputs.cache
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\Bez interfejsa\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CopyComplete
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\Bez interfejsa\Projekat3\Projekat3\obj\x86\Debug\Projekat3.exe
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\Bez interfejsa\Projekat3\Projekat3\obj\x86\Debug\Projekat3.pdb
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\MongoApp Kosarka\Projekat3\Projekat3\bin\Debug\Projekat3.exe
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\MongoApp Kosarka\Projekat3\Projekat3\bin\Debug\Projekat3.pdb
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\MongoApp Kosarka\Projekat3\Projekat3\bin\Debug\MongoDB.Bson.dll
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\MongoApp Kosarka\Projekat3\Projekat3\bin\Debug\MongoDB.Driver.dll
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\MongoApp Kosarka\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csprojAssemblyReference.cache
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\MongoApp Kosarka\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form0.resources
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\MongoApp Kosarka\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Form1.resources
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\MongoApp Kosarka\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Kosarkasi.resources
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\MongoApp Kosarka\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Treneri.resources
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\MongoApp Kosarka\Projekat3\Projekat3\obj\x86\Debug\Projekat3.Properties.Resources.resources
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\MongoApp Kosarka\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.GenerateResource.cache
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\MongoApp Kosarka\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CoreCompileInputs.cache
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\MongoApp Kosarka\Projekat3\Projekat3\obj\x86\Debug\Projekat3.csproj.CopyComplete
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\MongoApp Kosarka\Projekat3\Projekat3\obj\x86\Debug\Projekat3.exe
+C:\Users\Djordje\Desktop\Napredne baze podataka\Mongo Projekat 2021\MongoApp Kosarka\Projekat3\Projekat3\obj\x86\Debug\Projekat3.pdb
